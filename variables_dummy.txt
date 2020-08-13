@@ -1,0 +1,15 @@
+RG="newrg"
+LOCATION="eastus"
+VNET_NAME="newvnet"
+SUBNET1="frontned"
+SUNET2="backend"
+VM_NAME="newvm"
+NSG_NAME="newnsg"
+USER="linuxadmin"
+VM_SIZE="Standard_B1s"
+IMAGE="UbuntuLTS"
+NSG1_NAME=
+NSG2_NAME=
+NSG1_PORT=""
+NSG2_PORT=""
+PASSWORD=""
