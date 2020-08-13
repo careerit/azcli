@@ -10,8 +10,11 @@ This script creates the following resoruces:
 before you run the script change the name of `variables_dummy.txt` to `variables.txt` and replace your own values in the file.
 
 
-##USAGE:
+## USAGE:
+
 
 ```bash
+git clone https://github.com/careerit/azcli.git
+cd azcli
 ./simple_infra.sh
 ```
